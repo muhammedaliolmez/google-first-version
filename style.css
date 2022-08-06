@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style-type:none;
+}
+
+
+.container{
+    width: 1152px;
+    margin: 250px auto 0;
+    text-align: center;
+}
+
+.clear{
+    clear: both;
+}
+
+header{
+    background-color: #E5E2E7;
+}
+
+.box{
+    background-color: #30F1DE;
+    float: left;
+    width: 382px;
+    height: 100px;
+    margin-top: 3px;
+    padding: 10px;
+}
+
+#box-2{
+    margin-left: 3px;
+}
+
+#box-3{
+    margin-left: 3px;
+}
+
+.footer{
+    margin-top: 10px;
+}
